@@ -1,0 +1,21 @@
+.galleryDiv{
+    float: left;
+}
+#wrapper{
+    margin: 2% 4%;
+}
+#content{
+    margin-top: 4%;
+}
+span{
+    font-size: 22px;
+}
+.submitBtn{
+    background-color: blue;
+    color: white;
+    padding: 1% 2%;
+}
+.image{
+    max-width: 80%;
+    max-height: 182px;
+}
